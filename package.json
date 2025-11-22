@@ -9,6 +9,15 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.16.0"
+    "@astrojs/svelte": "^7.2.2",
+    "@tailwindcss/vite": "^4.1.17",
+    "astro": "^5.16.0",
+    "daisyui": "^5.5.5",
+    "svelte": "^5.43.14",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@vite-pwa/astro": "^1.1.1",
+    "workbox-window": "^7.4.0"
   }
 }
