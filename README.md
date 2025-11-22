@@ -2,6 +2,8 @@
 
 This is a production-ready starter template for building Progressive Web Apps (PWA) using **Astro 5**. It combines the performance of Astro with the interactivity of Svelte, styled with Tailwind CSS v4 and DaisyUI.
 
+<img width="418" height="491" alt="image" src="https://github.com/user-attachments/assets/406e1423-9bb8-43c5-b745-76acd93ee216" />
+
 ## 🚀 Tech Stack
 
 * **Framework:** [Astro 5](https://astro.build)
