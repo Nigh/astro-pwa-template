@@ -97,3 +97,8 @@ This is a production-ready starter template for building Progressive Web Apps (P
 │       └── global.css           # Tailwind @import & DaisyUI @plugin
 ├── astro.config.mjs             # Vite PWA & Tailwind Config
 └── package.json
+```
+
+## License
+
+[MIT](./LICENSE)
