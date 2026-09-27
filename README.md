@@ -17,13 +17,13 @@ This is a production-ready starter template for building Progressive Web Apps (P
 
 * **💯 Lighthouse Score:** Optimized for speed and SEO.
 * **📱 Installable:** Fully configured `manifest.webmanifest` and Service Worker.
-* **🔄 Auto-Update:** Includes a DaisyUI "New Version Available" toast prompt.
+* **🔄 Update Prompt:** Includes a DaisyUI "New Version Available" toast prompt.
 * **⚡ View Transitions:** Native app-like navigation animations.
 * **🎨 Theming:** Tailwind + DaisyUI plugin setup in `global.css`.
 
 ## 🛠️ Prerequisites
 
-* Node.js v18.14.1+
+* Node.js v22.13+
 * npm
 
 ## 📦 Start Develop
