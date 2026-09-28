@@ -8,7 +8,7 @@ export default defineConfig({
   integrations: [
     svelte(),
     AstroPWA({
-      registerType: 'autoUpdate',
+      registerType: 'prompt',
       manifest: {
         name: 'Astro PWA Starter',
         short_name: 'AstroPWA',
@@ -30,7 +30,7 @@ export default defineConfig({
         ],
       },
       workbox: {
-        navigateFallback: '/404',
+        navigateFallback: '/',
         globPatterns: ['**/*.{css,js,html,svg,png,ico,txt}'],
       },
       devOptions: {
